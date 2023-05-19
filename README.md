@@ -3,6 +3,7 @@ This project aims to analyze and explore the popularity of songs and artists on 
 
 # Getting Started
 To get started with this project, follow these steps:
+
 1.Clone the project repository to your local machine.
 
 2.Install the required dependencies such as pandas ,numpy , matplotlib, seaborn using pip or conda.
